@@ -14,9 +14,9 @@ namespace ProjectHospitalSystem.Models
         public int PaymentId { get; set; }
         [Required,Column(TypeName =("money"))]
         public decimal AmountPaid { get; set; }
+        [Required]
         [DisplayFormat(DataFormatString = "{0:dddd yyyy-MM-dd HH:mm}", ApplyFormatInEditMode = true)]
         public DateTime PaymentDate { get; set; }
-        [MaxLength(30)]
         public string Paymentmethod { get; set; }
         [ForeignKey("Bill")]
         public int? BillId { get; set; }
