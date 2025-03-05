@@ -4871,11 +4871,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ITI\\Course 22 Linq and entity frameWork\\Project\\ProjectHospitalSystem\\ProjectHospitalSystem\\ProjectHospitalSystem\\ProjectHospitalSystem.csproj",
+      "projectUniqueName": "D:\\ITI\\Course 22 Linq and entity frameWork\\ProjectFinal\\HospitalProject\\ProjectHospitalSystem\\ProjectHospitalSystem.csproj",
       "projectName": "ProjectHospitalSystem",
-      "projectPath": "D:\\ITI\\Course 22 Linq and entity frameWork\\Project\\ProjectHospitalSystem\\ProjectHospitalSystem\\ProjectHospitalSystem\\ProjectHospitalSystem.csproj",
+      "projectPath": "D:\\ITI\\Course 22 Linq and entity frameWork\\ProjectFinal\\HospitalProject\\ProjectHospitalSystem\\ProjectHospitalSystem.csproj",
       "packagesPath": "C:\\Users\\SOFT\\.nuget\\packages\\",
-      "outputPath": "D:\\ITI\\Course 22 Linq and entity frameWork\\Project\\ProjectHospitalSystem\\ProjectHospitalSystem\\ProjectHospitalSystem\\obj\\",
+      "outputPath": "D:\\ITI\\Course 22 Linq and entity frameWork\\ProjectFinal\\HospitalProject\\ProjectHospitalSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

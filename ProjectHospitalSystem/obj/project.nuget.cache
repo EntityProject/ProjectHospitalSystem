@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7kwDC9vMnQA=",
+  "dgSpecHash": "Q93+WRkUMSk=",
   "success": true,
-  "projectFilePath": "D:\\ITI\\Course 22 Linq and entity frameWork\\Project\\ProjectHospitalSystem\\ProjectHospitalSystem\\ProjectHospitalSystem\\ProjectHospitalSystem.csproj",
+  "projectFilePath": "D:\\ITI\\Course 22 Linq and entity frameWork\\ProjectFinal\\HospitalProject\\ProjectHospitalSystem\\ProjectHospitalSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SOFT\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\SOFT\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
