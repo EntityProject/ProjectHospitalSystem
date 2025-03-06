@@ -17,4 +17,11 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Forms\Common\" />
+    <Folder Include="Forms\Admin\" />
+    <Folder Include="Forms\Doctor\" />
+    <Folder Include="Forms\Receptionist\" />
+  </ItemGroup>
+
 </Project>
