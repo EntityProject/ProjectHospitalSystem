@@ -77,6 +77,7 @@ namespace ProjectHospitalSystem
         private void btn_clear_Click(object sender, EventArgs e)
         {
             ClearText();
+            // Ahmed Test
         }
     }
 }
