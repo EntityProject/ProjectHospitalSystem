@@ -28,19 +28,54 @@
         /// </summary>
         private void InitializeComponent()
         {
+            txt_userName = new TextBox();
+            txt_Password = new TextBox();
+            button1 = new Button();
             SuspendLayout();
+            // 
+            // txt_userName
+            // 
+            txt_userName.Location = new Point(358, 76);
+            txt_userName.Name = "txt_userName";
+            txt_userName.Size = new Size(194, 23);
+            txt_userName.TabIndex = 0;
+            // 
+            // txt_Password
+            // 
+            txt_Password.Location = new Point(358, 165);
+            txt_Password.Name = "txt_Password";
+            txt_Password.Size = new Size(194, 23);
+            txt_Password.TabIndex = 1;
+            // 
+            // button1
+            // 
+            button1.Location = new Point(417, 231);
+            button1.Name = "button1";
+            button1.Size = new Size(75, 23);
+            button1.TabIndex = 2;
+            button1.Text = "login";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // LoginForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button1);
+            Controls.Add(txt_Password);
+            Controls.Add(txt_userName);
             Name = "LoginForm";
             Text = "Login";
             Load += LoginForm_Load;
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private TextBox txt_userName;
+        private TextBox txt_Password;
+        private Button button1;
     }
 }

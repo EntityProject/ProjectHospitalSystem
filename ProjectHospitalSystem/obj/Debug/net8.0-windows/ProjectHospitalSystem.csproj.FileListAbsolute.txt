@@ -131,7 +131,6 @@ D:\ITI\Course 22 Linq and entity frameWork\ProjectFinal\HospitalProject\ProjectH
 D:\ITI\Course 22 Linq and entity frameWork\ProjectFinal\HospitalProject\ProjectHospitalSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\ITI\Course 22 Linq and entity frameWork\ProjectFinal\HospitalProject\ProjectHospitalSystem\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\ITI\Course 22 Linq and entity frameWork\ProjectFinal\HospitalProject\ProjectHospitalSystem\obj\Debug\net8.0-windows\ProjectHospitalSystem.csproj.AssemblyReference.cache
-D:\ITI\Course 22 Linq and entity frameWork\ProjectFinal\HospitalProject\ProjectHospitalSystem\obj\Debug\net8.0-windows\ProjectHospitalSystem.Form1.resources
 D:\ITI\Course 22 Linq and entity frameWork\ProjectFinal\HospitalProject\ProjectHospitalSystem\obj\Debug\net8.0-windows\ProjectHospitalSystem.csproj.GenerateResource.cache
 D:\ITI\Course 22 Linq and entity frameWork\ProjectFinal\HospitalProject\ProjectHospitalSystem\obj\Debug\net8.0-windows\ProjectHospitalSystem.GeneratedMSBuildEditorConfig.editorconfig
 D:\ITI\Course 22 Linq and entity frameWork\ProjectFinal\HospitalProject\ProjectHospitalSystem\obj\Debug\net8.0-windows\ProjectHospitalSystem.AssemblyInfoInputs.cache
@@ -144,3 +143,7 @@ D:\ITI\Course 22 Linq and entity frameWork\ProjectFinal\HospitalProject\ProjectH
 D:\ITI\Course 22 Linq and entity frameWork\ProjectFinal\HospitalProject\ProjectHospitalSystem\obj\Debug\net8.0-windows\ProjectHospitalSystem.pdb
 D:\ITI\Course 22 Linq and entity frameWork\ProjectFinal\HospitalProject\ProjectHospitalSystem\obj\Debug\net8.0-windows\ProjectHospitalSystem.genruntimeconfig.cache
 D:\ITI\Course 22 Linq and entity frameWork\ProjectFinal\HospitalProject\ProjectHospitalSystem\obj\Debug\net8.0-windows\ref\ProjectHospitalSystem.dll
+D:\ITI\Course 22 Linq and entity frameWork\ProjectFinal\HospitalProject\ProjectHospitalSystem\obj\Debug\net8.0-windows\ProjectHospitalSystem.LoginForm.resources
+D:\ITI\Course 22 Linq and entity frameWork\ProjectFinal\HospitalProject\ProjectHospitalSystem\obj\Debug\net8.0-windows\ProjectHospitalSystem.Forms.Admin.AdminUser.resources
+D:\ITI\Course 22 Linq and entity frameWork\ProjectFinal\HospitalProject\ProjectHospitalSystem\obj\Debug\net8.0-windows\ProjectHospitalSystem.Forms.Doctor.DoctorUser.resources
+D:\ITI\Course 22 Linq and entity frameWork\ProjectFinal\HospitalProject\ProjectHospitalSystem\obj\Debug\net8.0-windows\ProjectHospitalSystem.Forms.Receptionist.ReceptionistUser.resources
