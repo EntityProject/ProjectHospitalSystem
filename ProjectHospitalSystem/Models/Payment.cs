@@ -12,7 +12,7 @@ namespace ProjectHospitalSystem.Models
     {
         [Key]
         public int PaymentId { get; set; }
-        [Required,Column(TypeName =("money"))]
+        [Required, Column(TypeName = "money")]
         public decimal AmountPaid { get; set; }
         [Required]
         [DisplayFormat(DataFormatString = "{0:dddd yyyy-MM-dd HH:mm}", ApplyFormatInEditMode = true)]

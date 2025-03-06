@@ -14,7 +14,7 @@ namespace ProjectHospitalSystem.Models
         public int AppointmentId { get; set; }
         [DisplayFormat(DataFormatString = "{0:dddd yyyy-MM-dd HH:mm}", ApplyFormatInEditMode = true)]
         public DateTime AppointmentDateTime { get; set; }
-        [Required,MaxLength(30)]
+        [Required, MaxLength(30)]
         public string Status { get; set; }
         [Required, MaxLength(150)]
         public string Note { get; set; }
@@ -27,7 +27,7 @@ namespace ProjectHospitalSystem.Models
         public virtual User User { get; set; }
         [ForeignKey("Doctor")]
         public int? DoctorId { get; set; }
-        public virtual  Doctor Doctor { get; set; }
+        public virtual Doctor Doctor { get; set; }
         public virtual List<Bill> Bill { get; set; }
 
     }

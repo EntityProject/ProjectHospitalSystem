@@ -29,7 +29,7 @@ namespace ProjectHospitalSystem.Models
         public int? UserId { get; set; }
         public virtual User User { get; set; }
         public virtual List<Patient_Phone> Patient_Phone { get; set; }
-        public virtual List<Appointment> Appointment {  get; set; }
+        public virtual List<Appointment> Appointment { get; set; }
 
 
     }

@@ -9,7 +9,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace ProjectHospitalSystem.Models
 {
-    public class HospitalDbContext:DbContext
+    public class HospitalDbContext : DbContext
     {
         public DbSet<Department> Departments { get; set; }
         public DbSet<Doctor> Doctors { get; set; }

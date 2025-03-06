@@ -9,10 +9,10 @@ using System.Threading.Tasks;
 
 namespace ProjectHospitalSystem.Models
 {
-    [PrimaryKey(nameof(PatientId), nameof(PhoneNumber))] 
+    [PrimaryKey(nameof(PatientId), nameof(PhoneNumber))]
     public class Patient_Phone
     {
-        [Required,MaxLength(20)]
+        [Required, MaxLength(20)]
         public string PhoneNumber { get; set; }
         [ForeignKey("Patient")]
         public int? PatientId { get; set; }

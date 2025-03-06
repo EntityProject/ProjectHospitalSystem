@@ -12,11 +12,11 @@ namespace ProjectHospitalSystem.Models
     {
         [Key]
         public int BillId { get; set; }
-        [DisplayFormat(DataFormatString = "{0:dddd yyyy-MM-dd HH:mm}", ApplyFormatInEditMode = true)] 
-        public DateTime GenertedDate{ get; set; }
+        [DisplayFormat(DataFormatString = "{0:dddd yyyy-MM-dd HH:mm}", ApplyFormatInEditMode = true)]
+        public DateTime GenertedDate { get; set; }
         [DisplayFormat(DataFormatString = "{0:dddd yyyy-MM-dd HH:mm}", ApplyFormatInEditMode = true)]
         public DateTime DueDate { get; set; }
-        [Required,Column(TypeName ="money")]
+        [Required, Column(TypeName = "money")]
         public decimal TotalAmount { get; set; }
         [Required, MaxLength(20)]
         public string Status { get; set; }

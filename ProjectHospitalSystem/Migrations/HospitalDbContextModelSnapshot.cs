@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using ProjectHospitalSystem.Models;
 
+
 #nullable disable
 
 namespace ProjectHospitalSystem.Migrations

@@ -13,13 +13,13 @@ namespace ProjectHospitalSystem.Models
     {
         [Key]
         public int UserId { get; set; }
-        [Required,MaxLength(50)]
+        [Required, MaxLength(50)]
         public string UserName { get; set; }
-        [Required,MaxLength(50)]
+        [Required, MaxLength(50)]
         public string FName { get; set; }
-        [Required,MaxLength(50)]
+        [Required, MaxLength(50)]
         public string LName { get; set; }
-        [Required,MaxLength(50)]
+        [Required, MaxLength(50)]
         public string Password { get; set; }
         [NotMapped]
         public string ConfirmPassword { get; set; }
@@ -30,8 +30,8 @@ namespace ProjectHospitalSystem.Models
         [ForeignKey("Doctor")]
         public int? DoctorId { get; set; }
         public virtual Bill Bill { get; set; }
-        public virtual List<User_Phone>UserPhones { get; set; }
+        public virtual List<User_Phone> UserPhones { get; set; }
 
-        
+
     }
 }

@@ -18,7 +18,7 @@ namespace ProjectHospitalSystem.Models
         public string Diaqnois { get; set; }
         [Required, MaxLength(150)]
         public string Prescription { get; set; }
-        [Required,MaxLength(200)]
+        [Required, MaxLength(200)]
         public string LabResult { get; set; }
         [Required, MaxLength(150)]
         public string TreatmentDetails { get; set; }
